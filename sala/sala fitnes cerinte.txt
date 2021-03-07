@@ -1,0 +1,30 @@
+Lant de sali de fitness:
+
+1. Adaugare Clase_fiinte.Client-
+2. Afisare Clase_fiinte.Client-
+3. Creare Clase_obiecte.Abonament-
+4. Vizualizare Clase_obiecte.Abonament-
+5. Extindere abonament-
+6. Adaugare Clase_fiinte.Angajat-
+7. Afisare Clase_fiinte.Angajat-
+8. Vizualizare Clase-
+9. Adaugare de Clase-
+10. Rezervare loc clasa-
+
+
+
+
+
+
+Tipuri de obiecte:
+
+1. Clase_fiinte.Persoana
+2. Clase_fiinte.Angajat
+3. Clase_fiinte.Antrenor
+4. Clase_fiinte.Client
+5. Clase_obiecte.Abonament
+6. Clase_obiecte.Clasa
+7. Clase_obiecte.Locatii
+8. Clase_obiecte.Echipamente
+
+
